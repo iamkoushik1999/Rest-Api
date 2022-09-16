@@ -1,7 +1,6 @@
 # Rest-API
 
-### This repository contains 
- > How to create Rest API / CRUD Application
+### This repository contains How to create Rest API / CRUD Application
 
 ### API stands for
  > Application Programming Interface.
